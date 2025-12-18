@@ -1,6 +1,6 @@
 # Redirections and custom maps for boussole
 
-## This repository simply aims to provide custom maps for zones not covered by the variety of DATs mods available online.
+### This repository simply aims to provide custom maps for zones not covered by the variety of DATs mods available online.
 
 ## How to install
 
@@ -10,7 +10,7 @@
 
 - Simply add the content of settings.lua for a given set of maps inside your configuration file inside `<Ashita Folder>/config/addons/boussole/<YourCharacter_XXXXXX>`
 
-<span style="font-size:36px; font-weight:bold;">DO NOT replace your whole settings.lua file content or it won't work. You need to add the entries from the settings.lua file from this repository to your own.</span>
+**DO NOT replace your whole settings.lua file content or it won't work. You need to add the entries from the settings.lua file from this repository to your own.**
 
 - Then copy the content of custom_maps inside `<Ashita Folder>/config/addons/boussole/custom_maps`
 
@@ -21,6 +21,5 @@
 - Copy the content of custom_maps inside `<Ashita Folder>/config/addons/boussole/custom_maps`
 
 - Reload boussole
-
 
 
