@@ -1,6 +1,61 @@
 -- Add this to your settings.lua file inside <Ashita Folder>/config/addons/boussole/<YourCharacter_XXXXXX>
 -- Then, add the content of the custom_maps folder inside <Ashita Folder>/config/addons/boussole/custom_maps
 
+-- Outer Ra'Kaznar [U1] - Sortie - Upper floors
+settings["mapRedirects"]["275_1"] = T {};
+settings["mapRedirects"]["275_1"]["offsetY"] = 32;
+settings["mapRedirects"]["275_1"]["offsetX"] = 92;
+settings["mapRedirects"]["275_1"]["targetZone"] = 133;
+settings["mapRedirects"]["275_1"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_2"] = T {};
+settings["mapRedirects"]["275_2"]["offsetY"] = 32;
+settings["mapRedirects"]["275_2"]["offsetX"] = 92;
+settings["mapRedirects"]["275_2"]["targetZone"] = 133;
+settings["mapRedirects"]["275_2"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_3"] = T {};
+settings["mapRedirects"]["275_3"]["offsetY"] = 32;
+settings["mapRedirects"]["275_3"]["offsetX"] = 92;
+settings["mapRedirects"]["275_3"]["targetZone"] = 133;
+settings["mapRedirects"]["275_3"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_4"] = T {};
+settings["mapRedirects"]["275_4"]["offsetY"] = 32;
+settings["mapRedirects"]["275_4"]["offsetX"] = 92;
+settings["mapRedirects"]["275_4"]["targetZone"] = 133;
+settings["mapRedirects"]["275_4"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_5"] = T {};
+settings["mapRedirects"]["275_5"]["offsetY"] = 32;
+settings["mapRedirects"]["275_5"]["offsetX"] = 92;
+settings["mapRedirects"]["275_5"]["targetZone"] = 133;
+settings["mapRedirects"]["275_5"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_6"] = T {};
+settings["mapRedirects"]["275_6"]["offsetY"] = 32;
+settings["mapRedirects"]["275_6"]["offsetX"] = 92;
+settings["mapRedirects"]["275_6"]["targetZone"] = 133;
+settings["mapRedirects"]["275_6"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_7"] = T {};
+settings["mapRedirects"]["275_7"]["offsetY"] = 32;
+settings["mapRedirects"]["275_7"]["offsetX"] = 92;
+settings["mapRedirects"]["275_7"]["targetZone"] = 133;
+settings["mapRedirects"]["275_7"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_8"] = T {};
+settings["mapRedirects"]["275_8"]["offsetY"] = 32;
+settings["mapRedirects"]["275_8"]["offsetX"] = 92;
+settings["mapRedirects"]["275_8"]["targetZone"] = 133;
+settings["mapRedirects"]["275_8"]["targetFloor"] = 4;
+
+settings["mapRedirects"]["275_9"] = T {};
+settings["mapRedirects"]["275_9"]["offsetY"] = 32;
+settings["mapRedirects"]["275_9"]["offsetX"] = 92;
+settings["mapRedirects"]["275_9"]["targetZone"] = 133;
+settings["mapRedirects"]["275_9"]["targetFloor"] = 4;
+
 -- Outer Ra'Kaznar [U2] - Sortie - Upper floors
 settings["mapRedirects"]["133_1"] = T {};
 settings["mapRedirects"]["133_1"]["offsetY"] = 32;
@@ -110,6 +165,49 @@ settings["mapRedirects"]["189_9"]["offsetY"] = 32;
 settings["mapRedirects"]["189_9"]["offsetX"] = 92;
 settings["mapRedirects"]["189_9"]["targetZone"] = 133;
 settings["mapRedirects"]["189_9"]["targetFloor"] = 4;
+
+-- Outer Ra'Kaznar [U2] - Sortie - Basement floors
+settings["mapRedirects"]["275_10"] = T {};
+settings["mapRedirects"]["275_10"]["offsetY"] = 48;
+settings["mapRedirects"]["275_10"]["offsetX"] = 56;
+settings["mapRedirects"]["275_10"]["targetZone"] = 133;
+settings["mapRedirects"]["275_10"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_11"] = T {};
+settings["mapRedirects"]["275_11"]["offsetY"] = 48;
+settings["mapRedirects"]["275_11"]["offsetX"] = 56;
+settings["mapRedirects"]["275_11"]["targetZone"] = 133;
+settings["mapRedirects"]["275_11"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_12"] = T {};
+settings["mapRedirects"]["275_12"]["offsetY"] = 48;
+settings["mapRedirects"]["275_12"]["offsetX"] = 56;
+settings["mapRedirects"]["275_12"]["targetZone"] = 133;
+settings["mapRedirects"]["275_12"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_13"] = T {};
+settings["mapRedirects"]["275_13"]["offsetY"] = 48;
+settings["mapRedirects"]["275_13"]["offsetX"] = 56;
+settings["mapRedirects"]["275_13"]["targetZone"] = 133;
+settings["mapRedirects"]["275_13"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_14"] = T {};
+settings["mapRedirects"]["275_14"]["offsetY"] = 48;
+settings["mapRedirects"]["275_14"]["offsetX"] = 56;
+settings["mapRedirects"]["275_14"]["targetZone"] = 133;
+settings["mapRedirects"]["275_14"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_15"] = T {};
+settings["mapRedirects"]["275_15"]["offsetY"] = 48;
+settings["mapRedirects"]["275_15"]["offsetX"] = 56;
+settings["mapRedirects"]["275_15"]["targetZone"] = 133;
+settings["mapRedirects"]["275_15"]["targetFloor"] = 10;
+
+settings["mapRedirects"]["275_16"] = T {};
+settings["mapRedirects"]["275_16"]["offsetY"] = 48;
+settings["mapRedirects"]["275_16"]["offsetX"] = 56;
+settings["mapRedirects"]["275_16"]["targetZone"] = 133;
+settings["mapRedirects"]["275_16"]["targetFloor"] = 10;
 
 -- Outer Ra'Kaznar [U2] - Sortie - Basement floors
 settings["mapRedirects"]["133_10"] = T {};
